@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url('../imagens/pexels-caleb-oquendo-2927080.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    text-align: center;
+    margin: 20px 10px;
+}
+
+table{
+    border-collapse: collapse;
+    width: 60vh;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+th,tr,td{
+    border-bottom: solid #775638 1px;
+    text-align: center;
+    padding: 5px;
+}
+
+a{
+    margin-left: 10px;
+    position: fixed;
+    text-decoration: none;
+
+}
