@@ -2,9 +2,19 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: black;
+}
+
+body{
+    background-image: url('../imagens/bg-select-genero.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 h1{
+    font-size: 7vw;
     text-align: center;
     margin: 20px 10px;
 }
@@ -12,12 +22,20 @@ h1{
 #btn-voltar{
     position: fixed;
     margin-left: 10px;
+    font-size: 3vw;
 }
 
 a{
     text-decoration: none;
+    font-size: 3vw;
+}
+
+ul{
+    width: 70vw;
+    margin: auto;
 }
 
 li{
     margin-left: 30px;
+    font-size: 3vw;
 }
