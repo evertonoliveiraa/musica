@@ -14,9 +14,9 @@ body{
 }
 
 h1{
-    font-size: 7vw;
+    font-size: 6.5vw;
     text-align: center;
-    margin: 20px 10px;
+    margin:40px 10px;
 }
 
 table{
@@ -34,9 +34,10 @@ th,tr,td{
 }
 
 a{
-    font-size: 3vw;
-    margin-left: 10px;
-    position: fixed;
+    font-size: 4vw;
+    left: 15px;
+    top: 20px;
+    position: absolute;
     text-decoration: none;
 
 }
